@@ -1,0 +1,6 @@
+# Photoshop project
+*.psd
+_*
+
+# DS Store file for Mac OS
+.DS_Store
